@@ -1,1 +1,1 @@
-# AI-besd-Travel-Planner
+# AI-based-Travel-Planner
